@@ -6,7 +6,7 @@
 
 Antonio Ruiz Perez, Sebastian Rodriguez, Thien An Phan
 
-### Files
+## Files
 
 **`tl_2019_06_tract`**: A folder containing the United States Census tract shape files from June 2019, used to map out the Census tracts in this project in Python, using the Python library `geopandas`. Shape files obtained from the [U.S. Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
 
